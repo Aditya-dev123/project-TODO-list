@@ -106,7 +106,7 @@
     gap: 16px;
     transition: background var(--transition);
   }
-  [data-theme="light"] .header { background: rgba(240,244,255,0.85); }
+  [data-theme="light"] .header { background: rgba(131, 159, 236, 0.85); }
 
   .header-left { display: flex; align-items: center; gap: 12px; }
   .logo-mark {
